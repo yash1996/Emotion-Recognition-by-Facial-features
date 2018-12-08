@@ -1,7 +1,7 @@
 # My Solution of Facial Emotion Recognization in Kaggle
 This is my solution of [Facial Emotion Recognization in Kaggle](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/).
 
-What I changed to use Separable Convolutions instead.
+What I changed is to use Separable Convolutions instead.
 
 The motivation of this task is to recognize humans' facial emotion in natural environment, which is fun but a little difficult. The reason for this is the facial emotions on people's face are always neutral, such as it is difficult to distinguish happy and surprise at the same time. 
 
